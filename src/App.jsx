@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Navbar from "./components/navbar";
 import Hero from "./components/hero";
 import Skills from "./components/Skills";
-import Projects from "./components/Projects";
+import Projects from "./components/projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
 import Footer from "./components/footer";
