@@ -1,11 +1,11 @@
 import { useEffect, useState } from "react";
 import Navbar from "./components/navbar";
-import Hero from "./components/Hero";
-import Skills from "./components/skills";
+import Hero from "./components/hero";
+import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 const SECTIONS = ["home", "skills", "projects", "experience", "contact"];
 
