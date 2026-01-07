@@ -17,7 +17,7 @@ function Hero({ onProjectsClick, onContactClick }) {
           </h1>
 
           <p className="hero-description">
-            I’m Krishna, a frontend developer and BCA student who loves turning
+            I’m vatsal, a frontend developer and BCA student who loves turning
             ideas into clean, responsive interfaces. I focus on intuitive UX,
             modern layouts, and pixel-perfect implementation using React, HTML,
             CSS, and JavaScript.
